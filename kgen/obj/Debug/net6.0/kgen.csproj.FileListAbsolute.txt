@@ -1,0 +1,15 @@
+C:\Users\danil\OneDrive\Desktop\Programming\C++\kgen\kgen\bin\Debug\net6.0\kgen.exe
+C:\Users\danil\OneDrive\Desktop\Programming\C++\kgen\kgen\bin\Debug\net6.0\kgen.deps.json
+C:\Users\danil\OneDrive\Desktop\Programming\C++\kgen\kgen\bin\Debug\net6.0\kgen.runtimeconfig.json
+C:\Users\danil\OneDrive\Desktop\Programming\C++\kgen\kgen\bin\Debug\net6.0\kgen.dll
+C:\Users\danil\OneDrive\Desktop\Programming\C++\kgen\kgen\bin\Debug\net6.0\kgen.pdb
+C:\Users\danil\OneDrive\Desktop\Programming\C++\kgen\kgen\obj\Debug\net6.0\kgen.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Desktop\Programming\C++\kgen\kgen\obj\Debug\net6.0\kgen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danil\OneDrive\Desktop\Programming\C++\kgen\kgen\obj\Debug\net6.0\kgen.AssemblyInfoInputs.cache
+C:\Users\danil\OneDrive\Desktop\Programming\C++\kgen\kgen\obj\Debug\net6.0\kgen.AssemblyInfo.cs
+C:\Users\danil\OneDrive\Desktop\Programming\C++\kgen\kgen\obj\Debug\net6.0\kgen.csproj.CoreCompileInputs.cache
+C:\Users\danil\OneDrive\Desktop\Programming\C++\kgen\kgen\obj\Debug\net6.0\kgen.dll
+C:\Users\danil\OneDrive\Desktop\Programming\C++\kgen\kgen\obj\Debug\net6.0\refint\kgen.dll
+C:\Users\danil\OneDrive\Desktop\Programming\C++\kgen\kgen\obj\Debug\net6.0\kgen.pdb
+C:\Users\danil\OneDrive\Desktop\Programming\C++\kgen\kgen\obj\Debug\net6.0\kgen.genruntimeconfig.cache
+C:\Users\danil\OneDrive\Desktop\Programming\C++\kgen\kgen\obj\Debug\net6.0\ref\kgen.dll

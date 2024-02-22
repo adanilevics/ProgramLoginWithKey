@@ -1,0 +1,16 @@
+C:\Users\danil\OneDrive\Desktop\Programming\C++\logintest\logintest\obj\Release\logintest.csproj.AssemblyReference.cache
+C:\Users\danil\OneDrive\Desktop\Programming\C++\logintest\logintest\obj\Release\logintest.csproj.SuggestedBindingRedirects.cache
+C:\Users\danil\OneDrive\Desktop\Programming\C++\logintest\logintest\obj\Release\logintest.Form1.resources
+C:\Users\danil\OneDrive\Desktop\Programming\C++\logintest\logintest\obj\Release\logintest.Properties.Resources.resources
+C:\Users\danil\OneDrive\Desktop\Programming\C++\logintest\logintest\obj\Release\logintest.csproj.GenerateResource.cache
+C:\Users\danil\OneDrive\Desktop\Programming\C++\logintest\logintest\obj\Release\logintest.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\Programming\C++\logintest\logintest\bin\Release\logintest.exe.config
+C:\Users\danil\Desktop\Programming\C++\logintest\logintest\bin\Release\logintest.exe
+C:\Users\danil\Desktop\Programming\C++\logintest\logintest\bin\Release\logintest.pdb
+C:\Users\danil\Desktop\Programming\C++\logintest\logintest\obj\Release\logintest.csproj.AssemblyReference.cache
+C:\Users\danil\Desktop\Programming\C++\logintest\logintest\obj\Release\logintest.Form1.resources
+C:\Users\danil\Desktop\Programming\C++\logintest\logintest\obj\Release\logintest.Properties.Resources.resources
+C:\Users\danil\Desktop\Programming\C++\logintest\logintest\obj\Release\logintest.csproj.GenerateResource.cache
+C:\Users\danil\Desktop\Programming\C++\logintest\logintest\obj\Release\logintest.csproj.CoreCompileInputs.cache
+C:\Users\danil\Desktop\Programming\C++\logintest\logintest\obj\Release\logintest.exe
+C:\Users\danil\Desktop\Programming\C++\logintest\logintest\obj\Release\logintest.pdb

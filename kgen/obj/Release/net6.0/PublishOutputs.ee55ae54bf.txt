@@ -1,0 +1,5 @@
+C:\Users\danil\OneDrive\Desktop\publishes\kgen.exe
+C:\Users\danil\OneDrive\Desktop\publishes\kgen.dll
+C:\Users\danil\OneDrive\Desktop\publishes\kgen.deps.json
+C:\Users\danil\OneDrive\Desktop\publishes\kgen.runtimeconfig.json
+C:\Users\danil\OneDrive\Desktop\publishes\kgen.pdb
